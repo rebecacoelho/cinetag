@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **CineTag**
 | :label: Tecnologias | React, JavaScript, Html5, CSS3 (tecnologias utilizadas)
-| :rocket: URL         |https://cine-tag-vert.vercel.app/
+| :rocket: URL         | cinetag-r-rebecacoelho.vercel.app
 
 ![Cinetag](https://user-images.githubusercontent.com/50180854/216783551-aa73749e-f682-4792-ac19-e99a69015cea.png#vitrinedev)
 
