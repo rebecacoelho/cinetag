@@ -4,7 +4,6 @@ import Card from 'components/Card';
 
 import styles from './Favorites.module.css'
 
-import videos from 'json/db.json';
 import { useFavoriteContext } from 'contexts/Favorites';
 
 function Favorites() {
